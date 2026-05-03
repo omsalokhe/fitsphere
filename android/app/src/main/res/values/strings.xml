@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">FitSphere AI</string>
+    <string name="title_activity_main">FitSphere AI</string>
+    <string name="package_name">com.fitsphere.ai</string>
+    <string name="custom_url_scheme">com.fitsphere.ai</string>
+</resources>
